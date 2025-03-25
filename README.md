@@ -16,6 +16,36 @@
 - IDE: VS Code/Android Studio
 - Emulator/Perangkat Fisik
 
+## **Tugas Akhir**
+
+Buat aplikasi Task Manager dengan fitur:
+
+1. **CRUD Task** (+ deadline)
+    1. Create. ✅
+    2. Read. ✅
+    3. Update. (kerjakan)
+    4. Delete. (kerjakan)
+2. **Notifikasi** saat:
+    - Task dibuat ✅
+    - Task deadline ✅
+    - Task diperbarui. (kerjakan)
+    - Task dihapus. (kerjakan)
+    - Deadline task terlewat. (kerjakan)
+3. **Testing**:
+    - 3 Unit test (insert, delete, deadline check).
+    - 2 Widget test (task list, add task).
+
+### **Kriteria Penilaian**
+
+| **Komponen** | **Poin** |
+| --- | --- |
+| SQLite CRUD lengkap | 30 |
+| Notifikasi lokal berfungsi | 25 |
+| Unit Test (3 skenario) | 20 |
+| Widget Test (2 skenario) | 15 |
+| Kode terstruktur | 10 |
+
+
 ## **Kesimpulan Praktikum:**
 
 **Aplikasi Task Manager dengan SQLite & Notifikasi Lokal**
